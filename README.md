@@ -2,4 +2,6 @@
 A web app that converts info (link, message ) to qrcode image
 <br>
 
-its incomplete!!
+The methode of using this given here ->
+<br>
+.....
