@@ -1,4 +1,4 @@
-# Qr_code_generater
+# Qr Code Generater (Windows)
 A web app that converts info (link, message ) to qrcode image
 <br>
 
